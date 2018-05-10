@@ -1,0 +1,7 @@
+c:\users\hp\source\repos\NotebookXML - 08.05.2018\NotebookXML - 08.05.2018\bin\Debug\NotebookXML - 08.05.2018.exe.config
+c:\users\hp\source\repos\NotebookXML - 08.05.2018\NotebookXML - 08.05.2018\bin\Debug\NotebookXML - 08.05.2018.exe
+c:\users\hp\source\repos\NotebookXML - 08.05.2018\NotebookXML - 08.05.2018\bin\Debug\NotebookXML - 08.05.2018.pdb
+c:\users\hp\source\repos\NotebookXML - 08.05.2018\NotebookXML - 08.05.2018\obj\Debug\NotebookXML - 08.05.2018.csprojResolveAssemblyReference.cache
+c:\users\hp\source\repos\NotebookXML - 08.05.2018\NotebookXML - 08.05.2018\obj\Debug\NotebookXML - 08.05.2018.csproj.CoreCompileInputs.cache
+c:\users\hp\source\repos\NotebookXML - 08.05.2018\NotebookXML - 08.05.2018\obj\Debug\NotebookXML - 08.05.2018.exe
+c:\users\hp\source\repos\NotebookXML - 08.05.2018\NotebookXML - 08.05.2018\obj\Debug\NotebookXML - 08.05.2018.pdb
